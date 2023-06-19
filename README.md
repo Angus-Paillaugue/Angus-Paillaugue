@@ -33,7 +33,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <div align=center>
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mere-patrie&row=1&column=70&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mere-patrie)](https://github.com/anuraghazra/github-readme-stats)
   </div>
 </p>        
 <!--- stats (end) -->
