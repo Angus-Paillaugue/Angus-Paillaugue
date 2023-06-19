@@ -25,7 +25,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <div align=center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mere-patrie" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mere-patrie&layout=compact&theme=github_dark_dimmed" />
   </div>
 </p>        
 <!--- stats (end) -->
