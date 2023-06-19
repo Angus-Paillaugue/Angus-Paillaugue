@@ -20,7 +20,7 @@
 <!--Intro start-->
 - 🌱 I’m currently learning **the Svelte framework**
 
-- 💬 Ask me about nodejs, express, mongoDB, tailwind**
+- 💬 Ask me about **nodejs, express, mongoDB, tailwind**
 
 - 📫 Feel free to reach me out **angus.paillaugue40@gmail.com**
 
@@ -32,26 +32,9 @@
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-  <td width="50%" align="center">
-    
-    [![Angus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mere-patrie)](https://github.com/anuraghazra/github-readme-stats)
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+  <div align=center>
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=mere-patrie&row=1&column=70&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
+  </div>
 </p>        
 <!--- stats (end) -->
 
