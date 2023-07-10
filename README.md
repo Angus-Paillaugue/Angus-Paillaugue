@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,svelte,jquery,bootstrap,nodejs,express,mysql,mongodb,firebase,git,github,vscode,py,arduino,aws,docker,linux,md&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,svelte,jquery,bootstrap,nodejs,express,mysql,mongodb,firebase,git,github,vscode,py,arduino,aws,docker,linux,md&perline=8" />
 </p>
 
 <p align="center">
