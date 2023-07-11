@@ -26,12 +26,12 @@
 
 <p align="center">
   <div align=center>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mere-patrie&layout=compact&theme=github_dark_dimmed" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angus-Paillaugue&layout=compact&theme=github_dark_dimmed" />
   </div>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/angus-paillaugue-573aa91a5/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkdin" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/angus-paillaugue/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkdin" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
