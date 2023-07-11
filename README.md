@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-- 🌱 I’m currently learning the **Svelte framework**
+- 🌱 I’m currently learning the **SvelteKit framework**
 
 - 💬 Ask me about **nodejs, express, mongoDB, tailwind**
 
