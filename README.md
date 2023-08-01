@@ -30,10 +30,6 @@
   </div>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/angus-paillaugue/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkdin" alt="linkedin" height="50" width="50" /></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
