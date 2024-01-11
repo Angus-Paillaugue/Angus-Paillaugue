@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **nodejs, express, mongoDB, tailwind**
 
-- 📫 Feel free to reach me out **angus.paillaugue40@gmail.com**
+- 📫 Feel free to reach me out **angus@paillaugue40.fr**
 
 - 🤔 I’m currently open for a new `job opportunity`
 
