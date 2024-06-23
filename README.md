@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning the **SvelteKit framework**
 
-- 💬 Ask me about **nodejs, express, mongoDB, tailwind**
+<!-- - 💬 Ask me about **nodejs, express, mongoDB, tailwind** -->
 
 - 📫 Feel free to reach me out **angus@paillaugue.fr**
 
