@@ -1,9 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=B1B1B1&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angus" alt="Typing SVG" />
-  </ul>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=B1B1B1&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angus" alt="Typing SVG" />
 </div>
 
 - 🌱 I’m currently learning the **SvelteKit framework**
@@ -14,26 +12,24 @@
 
 - 🤔 I’m currently open for a new `job opportunity`
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Know👨🏻‍💻</h2></summary>
-  </ul>
+<div align="center">
+  <h2 style="display: inline-block">Technologies I Know👨🏻‍💻</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,js,tailwind,mongodb,mysql,nodejs,linux,html,css,git,github,python,express,jquery,vscode,md&perline=8" />
+  <img src="https://skillicons.dev/icons?i=svelte,js,tailwind,mongodb,mysql,nodejs,git,linux,vscode,github,python,md,html,css,express&perline=5" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <div align=center>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angus-Paillaugue&layout=compact&theme=github_dark_dimmed" />
   </div>
-</p>
+</p>-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--
-**mere-patrie/mere-patrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Angus-Paillaugue/Angus-Paillaugue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
