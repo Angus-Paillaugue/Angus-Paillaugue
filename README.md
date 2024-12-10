@@ -13,11 +13,11 @@
 - 🤔 I’m currently open for a new `job opportunity`
 
 <div align="center">
-  <h2 style="display: inline-block">Technologies I Know👨🏻‍💻</h2>
+  <h2 style="display: inline-block">Technologies I Use👨🏻‍💻</h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,js,tailwind,mongodb,mysql,nodejs,git,linux,vscode,github,python,md,html,css,express&perline=5" />
+  <img src="https://skillicons.dev/icons?i=svelte,js,tailwind,docker,mysql,nodejs,git,linux,vscode,github,python,md,html,css,mongodb&perline=5" />
 </p>
 
 <!--<p align="center">
